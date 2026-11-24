@@ -1,0 +1,5 @@
+.azure/
+**/snapshots/
+*.env
+__pycache__/
+.superpowers/

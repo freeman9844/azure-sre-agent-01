@@ -1,0 +1,10 @@
+node_modules/
+__pycache__/
+*.py[cod]
+.env
+.azure/
+*.log
+*.png
+!docs/images/*.png
+.playwright-mcp/
+sre-config/knowledge-base/.upload-hashes.json
